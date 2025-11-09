@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-2.10+-orange.svg)](https://www.tensorflow.org/)
-[![Accuracy](https://img.shields.io/badge/accuracy-90%25+-green.svg)](https://github.com/yourusername/side-channel-attack-detection)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 
 > Deep learning-powered autonomous agents for detecting cryptographic side-channel attacks with 90%+ accuracy
 
@@ -491,9 +490,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
