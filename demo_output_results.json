@@ -1,0 +1,26 @@
+{
+  "demo_1_cnn_training": {
+    "training_accuracy": 0.9087,
+    "test_accuracy": 0.8923,
+    "key_rank": 8.34,
+    "training_time_seconds": 218.45
+  },
+  "demo_2_agent_monitoring": {
+    "traces_analyzed": 150,
+    "alerts_generated": 54,
+    "alert_rate": 0.36,
+    "threat_distribution": {
+      "low": 24,
+      "medium": 17,
+      "high": 8,
+      "critical": 5
+    }
+  },
+  "demo_3_multi_agent": {
+    "total_traces": 269,
+    "total_alerts": 70,
+    "agents": 3,
+    "average_per_agent": 89.66666666666667
+  },
+  "timestamp": "2025-11-09T10:00:20.314134"
+}
