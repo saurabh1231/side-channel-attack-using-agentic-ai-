@@ -502,11 +502,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow** team for the deep learning framework
 - Research community for foundational papers
 
-## 📧 Contact
-
-- **Project Link**: https://github.com/yourusername/side-channel-attack-detection
-- **Issues**: https://github.com/yourusername/side-channel-attack-detection/issues
-- **Discussions**: https://github.com/yourusername/side-channel-attack-detection/discussions
 
 ## 🌟 Star History
 
@@ -519,9 +514,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{sca_detection_2025,
   title={CNN-Based Side-Channel Attack Detection with Agentic AI},
-  author={Your Name},
+  author={Saurabh Shinde},
   year={2025},
-  url={https://github.com/yourusername/side-channel-attack-detection}
+  url={https://github.com/saurabh1231/side-channel-attack-detection}
 }
 ```
 
@@ -533,6 +528,5 @@ If you use this project in your research, please cite:
 
 ---
 
-**Made with ❤️ for the security research community**
 
 **Status**: ✅ Production Ready | **Version**: 1.0.0 | **Last Updated**: November 2025
